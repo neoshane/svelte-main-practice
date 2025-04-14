@@ -1,0 +1,1 @@
+20장 심플 프로젝트1 - My Bucket List : 20.9의 store로 처리한 예제
